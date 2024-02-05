@@ -1,0 +1,8 @@
+app/vercel/next_basic_pwa/twa/Application.java
+ app.vercel.next_basic_pwa.twa.Application
+app/vercel/next_basic_pwa/twa/LauncherActivity.java
+ app.vercel.next_basic_pwa.twa.LauncherActivity
+app/vercel/next_basic_pwa/twa/DelegationService.java
+ app.vercel.next_basic_pwa.twa.DelegationService
+app/vercel/next_basic_pwa/twa/BuildConfig.java
+ app.vercel.next_basic_pwa.twa.BuildConfig

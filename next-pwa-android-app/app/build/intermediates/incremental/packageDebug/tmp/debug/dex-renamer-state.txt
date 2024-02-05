@@ -1,0 +1,4 @@
+#Mon Feb 05 15:47:25 SGT 2024
+base.0=C\:\\Users\\RAMMUS\\codingProjects\\next-basic-pwa\\next-pwa-android-app\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
